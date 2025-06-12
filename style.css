@@ -1,0 +1,18 @@
+ul {
+    
+    display: flex;
+    margin-left: 25px;
+    background-color: bisque;
+    height: 100px;
+
+}
+
+
+
+.a{
+    display: inline;
+    margin-left: 200px;
+}
+body{
+    background-color: rgb(160, 167, 74);
+}
